@@ -1,1 +1,2 @@
-# git-javascript
+# Git JavaScript
+### Calvin Hall
